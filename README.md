@@ -16,3 +16,6 @@ Run your application using npm:
 $ npm start
 
 Your application should run on port 3000
+
+# Note
+The GitHub API's rate limit allows for up to 60 requests per hour
