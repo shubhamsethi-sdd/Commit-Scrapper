@@ -3,7 +3,7 @@ A Github Repository Commits Scrapper Web Application
 
 # Quick Install
 
-To install the dependencies, run this in the application folder from the command-line:
+To install the dependencies, run this in the git-commit-history folder from the command-line:
 
 $ npm install
 
