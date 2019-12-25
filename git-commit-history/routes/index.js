@@ -11,8 +11,8 @@ router.get('/page/:id', function (req, res, next) {
 
 
   var options = {
-    user: 'smartcoder23',
-    repo: 'nodejs-socialshare',
+    user: 'smartdatasdd',
+    repo: 'Commit-Scrapper',
     branch: 'master',
   };
 
